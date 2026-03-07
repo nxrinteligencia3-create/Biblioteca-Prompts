@@ -1,0 +1,26 @@
+body {
+  background: #F5DEB3;
+}
+
+h1 {
+  color: black;
+  margin-left: 40px;
+  font-family: 'Playwrite CU Guides', cursive;
+  font-size: 30px;
+}
+
+.botao {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.m1 {
+  position: relative;
+  top: 100px;
+  
+}
+
+.m2 {
+  position: relative;
+  
+}
