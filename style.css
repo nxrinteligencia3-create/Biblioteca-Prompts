@@ -12,26 +12,30 @@ h1 {
 .botao {
   display: inline-block;
   text-decoration: none;
-  display: block;
   margin-top: 20px;
   margin-left: 40px;
+  
 }
 
 .m1 {
   font-size: 40px;
+  color: #FF00FF;
   
 }
 
 .m2 {
   font-size: 40px;
+  color: #FFFF00;
 }
 
 .m3 {
   font-size: 40px;
+  color: #8B008B;
 }
 
 .m4 {
   font-size: 40px;
+  color: #8A2BE2;
 }
 
 .m5 {
