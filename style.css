@@ -12,17 +12,35 @@ h1 {
 .botao {
   display: inline-block;
   text-decoration: none;
+  display: block;
 }
 
 .m1 {
-  position: relative;
-  top: 100px;
+  margin-top: 20px;
   font-size: 40px;
   margin-left: 40px;
-  
 }
 
 .m2 {
-  position: relative;
-  
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 40px;
+}
+
+.m3 {
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 40px;
+}
+
+.m4 {
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 40px;
+}
+
+.m5 {
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 40px;
 }
