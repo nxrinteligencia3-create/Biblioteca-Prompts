@@ -10,7 +10,7 @@ h1 {
 }
 
 .botao {
-  display: inline-block;
+  display: block;
   text-decoration: none;
   margin-top: 20px;
   margin-left: 40px;
