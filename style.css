@@ -1,11 +1,11 @@
 body {
-  background: #F5DEB3;
+  background: #00FFFF;
 }
 
 h1 {
-  color: black;
+  color: #1c1c1c;
   margin-left: 40px;
-  font-family: 'Playwrite CU Guides', cursive;
+  font-family: 'DynaPuff', cursive;
   font-size: 30px;
 }
 
